@@ -26,13 +26,17 @@ public class day1 {
 	
 	
 static void calculator (int x, int y) {
-//	x=40 and y = 9
+//	x=40 and y = 9 example only
+	
 	System.out.println(x+y);
 	System.out.println(x-y);
 	System.out.println(x*y);
 	System.out.println(x/y);
 	System.out.println(x%y);
 }
+
+int x=1;
+int y=2;
 
 
 

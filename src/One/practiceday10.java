@@ -24,7 +24,7 @@ public class practiceday10 {
 		System.out.println(d*9);
 	}
 
-// function without paramete and no return type
+// function without parameter and no return type
 
 	static void sum() {
 		System.out.println(8 + 7);
